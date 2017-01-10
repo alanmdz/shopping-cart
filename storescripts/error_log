@@ -1,0 +1,64 @@
+[19-Nov-2015 04:53:04 America/New_York] PHP Warning:  require(connect_to_my_sql.php): failed to open stream: No such file or directory in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 04:53:04 America/New_York] PHP Warning:  require(connect_to_my_sql.php): failed to open stream: No such file or directory in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 04:53:04 America/New_York] PHP Fatal error:  require(): Failed opening required 'connect_to_my_sql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 05:01:22 America/New_York] PHP Warning:  require(connect_to_my_sql.php): failed to open stream: No such file or directory in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 05:01:22 America/New_York] PHP Warning:  require(connect_to_my_sql.php): failed to open stream: No such file or directory in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 05:01:22 America/New_York] PHP Fatal error:  require(): Failed opening required 'connect_to_my_sql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 05:17:58 America/New_York] PHP Warning:  require(connect_to_my_sql.php): failed to open stream: No such file or directory in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 05:17:58 America/New_York] PHP Warning:  require(connect_to_my_sql.php): failed to open stream: No such file or directory in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 05:17:58 America/New_York] PHP Fatal error:  require(): Failed opening required 'connect_to_my_sql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 06:21:49 America/New_York] PHP Warning:  require(connect_to_my_sql.php): failed to open stream: No such file or directory in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 06:21:49 America/New_York] PHP Warning:  require(connect_to_my_sql.php): failed to open stream: No such file or directory in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 06:21:49 America/New_York] PHP Fatal error:  require(): Failed opening required 'connect_to_my_sql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 15:28:20 America/New_York] PHP Warning:  require(connect_to_my_sql.php): failed to open stream: No such file or directory in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 15:28:20 America/New_York] PHP Warning:  require(connect_to_my_sql.php): failed to open stream: No such file or directory in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 15:28:20 America/New_York] PHP Fatal error:  require(): Failed opening required 'connect_to_my_sql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 15:31:06 America/New_York] PHP Warning:  require(connect_to_my_sql.php): failed to open stream: No such file or directory in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 15:31:06 America/New_York] PHP Warning:  require(connect_to_my_sql.php): failed to open stream: No such file or directory in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 15:31:06 America/New_York] PHP Fatal error:  require(): Failed opening required 'connect_to_my_sql.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/artdwjld/public_html/storescripts/my_ipn.php on line 2
+[19-Nov-2015 15:33:06 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artdwjld/public_html/storescripts/my_ipn.php on line 85
+[19-Nov-2015 15:33:06 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artdwjld/public_html/storescripts/my_ipn.php on line 85
+[19-Nov-2015 15:37:07 America/New_York] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/artdwjld/public_html/storescripts/my_ipn.php on line 132
+[19-Nov-2015 15:39:02 America/New_York] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/artdwjld/public_html/storescripts/my_ipn.php on line 132
+[19-Nov-2015 22:42:28 America/New_York] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/artdwjld/public_html/storescripts/my_ipn.php on line 132
+[21-Nov-2016 08:46:04 America/New_York] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/artdwjld/public_html/storescripts/my_ipn.php on line 132
+[26-Nov-2016 05:24:38 America/New_York] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/artdwjld/public_html/storescripts/my_ipn.php on line 132
+[26-Nov-2016 23:03:09 America/New_York] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/artdwjld/public_html/storescripts/my_ipn.php on line 132
+[26-Nov-2016 23:12:35 America/New_York] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/artdwjld/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 17:40:00 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 19:39:30 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 19:40:37 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 19:46:40 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 19:50:09 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 19:50:15 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 19:53:45 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 19:57:12 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 20:11:47 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 20:14:10 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 20:16:25 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:16:25 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'alandot5'@'localhost' (using password: NO) in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:16:25 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:17:42 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:17:42 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'alandot5'@'localhost' (using password: NO) in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:17:42 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:20:43 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:20:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'alandot5'@'localhost' (using password: NO) in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:20:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:22:27 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:22:27 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'alandot5'@'localhost' (using password: NO) in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:22:27 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:26:30 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:26:30 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'alandot5'@'localhost' (using password: NO) in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:26:30 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home4/alandot5/public_html/storescripts/my_ipn.php on line 110
+[27-Nov-2016 20:31:10 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 20:32:06 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 20:34:34 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 20:40:40 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 20:45:33 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[27-Nov-2016 23:41:43 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[28-Nov-2016 01:53:58 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[28-Nov-2016 02:15:00 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[28-Nov-2016 02:19:50 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[28-Nov-2016 02:20:42 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[28-Nov-2016 02:39:11 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132
+[28-Nov-2016 16:11:51 America/Chicago] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home4/alandot5/public_html/storescripts/my_ipn.php on line 132

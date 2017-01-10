@@ -1,0 +1,25 @@
+[12-Nov-2015 13:28:00 America/New_York] PHP Notice:  Undefined index: product_list in /home/artdwjld/public_html/storeadmin/inventory_edit.php on line 39
+[12-Nov-2015 13:28:00 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artdwjld/public_html/storeadmin/inventory_edit.php:39) in /home/artdwjld/public_html/storeadmin/inventory_edit.php on line 47
+[12-Nov-2015 13:28:10 America/New_York] PHP Notice:  Undefined index: product_list in /home/artdwjld/public_html/storeadmin/inventory_edit.php on line 39
+[12-Nov-2015 13:28:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artdwjld/public_html/storeadmin/inventory_edit.php:39) in /home/artdwjld/public_html/storeadmin/inventory_edit.php on line 47
+[12-Nov-2015 13:31:26 America/New_York] PHP Notice:  Undefined index: product_list in /home/artdwjld/public_html/storeadmin/inventory_edit.php on line 39
+[12-Nov-2015 13:31:26 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artdwjld/public_html/storeadmin/inventory_edit.php:39) in /home/artdwjld/public_html/storeadmin/inventory_edit.php on line 47
+[12-Nov-2015 13:32:29 America/New_York] PHP Notice:  Undefined index: product_list in /home/artdwjld/public_html/storeadmin/inventory_edit.php on line 39
+[12-Nov-2015 13:32:29 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/artdwjld/public_html/storeadmin/inventory_edit.php:39) in /home/artdwjld/public_html/storeadmin/inventory_edit.php on line 47
+[19-Nov-2015 06:25:51 America/New_York] PHP Notice:  Undefined variable: count in /home/artdwjld/public_html/storeadmin/inventory_edit.php on line 112
+[25-Nov-2015 17:39:52 America/New_York] PHP Notice:  Undefined variable: count in /home/artdwjld/public_html/storeadmin/inventory_edit.php on line 112
+[27-Nov-2016 17:48:25 America/Chicago] PHP Notice:  Undefined variable: count in /home4/alandot5/public_html/storeadmin/inventory_edit.php on line 112
+[27-Nov-2016 17:49:16 America/Chicago] PHP Notice:  Undefined variable: count in /home4/alandot5/public_html/storeadmin/inventory_edit.php on line 112
+[28-Nov-2016 00:54:32 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home4/alandot5/public_html/storeadmin/transactions.php on line 51
+[28-Nov-2016 01:04:09 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/alandot5/public_html/storeadmin/transactions.php on line 58
+[28-Nov-2016 01:45:09 America/Chicago] PHP Notice:  Undefined variable: products in /home4/alandot5/public_html/storeadmin/inventory_edit.php on line 92
+[28-Nov-2016 01:57:59 America/Chicago] PHP Notice:  Undefined variable: product_name in /home4/alandot5/public_html/storeadmin/inventory_edit.php on line 103
+[28-Nov-2016 01:57:59 America/Chicago] PHP Notice:  Undefined variable: price in /home4/alandot5/public_html/storeadmin/inventory_edit.php on line 110
+[28-Nov-2016 01:57:59 America/Chicago] PHP Notice:  Undefined variable: count in /home4/alandot5/public_html/storeadmin/inventory_edit.php on line 115
+[28-Nov-2016 01:57:59 America/Chicago] PHP Notice:  Undefined variable: details in /home4/alandot5/public_html/storeadmin/inventory_edit.php on line 121
+[28-Nov-2016 01:57:59 America/Chicago] PHP Notice:  Undefined variable: targetID in /home4/alandot5/public_html/storeadmin/inventory_edit.php on line 133
+[28-Nov-2016 01:58:27 America/Chicago] PHP Notice:  Undefined variable: product_name in /home4/alandot5/public_html/storeadmin/inventory_edit.php on line 103
+[28-Nov-2016 01:58:27 America/Chicago] PHP Notice:  Undefined variable: price in /home4/alandot5/public_html/storeadmin/inventory_edit.php on line 110
+[28-Nov-2016 01:58:27 America/Chicago] PHP Notice:  Undefined variable: count in /home4/alandot5/public_html/storeadmin/inventory_edit.php on line 115
+[28-Nov-2016 01:58:27 America/Chicago] PHP Notice:  Undefined variable: details in /home4/alandot5/public_html/storeadmin/inventory_edit.php on line 121
+[28-Nov-2016 01:58:27 America/Chicago] PHP Notice:  Undefined variable: targetID in /home4/alandot5/public_html/storeadmin/inventory_edit.php on line 133

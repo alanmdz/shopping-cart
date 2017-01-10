@@ -1,0 +1,29 @@
+[27-Nov-2016 18:08:29 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/alandot5/public_html/product.php on line 68
+[27-Nov-2016 23:23:28 America/Chicago] PHP Notice:  Undefined variable: price in /home4/alandot5/public_html/cart.php on line 115
+[27-Nov-2016 23:23:28 America/Chicago] PHP Notice:  Undefined variable: product_name in /home4/alandot5/public_html/cart.php on line 121
+[27-Nov-2016 23:23:28 America/Chicago] PHP Notice:  Undefined variable: price in /home4/alandot5/public_html/cart.php on line 122
+[27-Nov-2016 23:23:28 America/Chicago] PHP Notice:  Undefined variable: product_name in /home4/alandot5/public_html/cart.php on line 128
+[27-Nov-2016 23:23:28 America/Chicago] PHP Notice:  Undefined variable: product_name in /home4/alandot5/public_html/cart.php on line 128
+[27-Nov-2016 23:23:28 America/Chicago] PHP Notice:  Undefined variable: details in /home4/alandot5/public_html/cart.php on line 129
+[27-Nov-2016 23:23:28 America/Chicago] PHP Notice:  Undefined variable: price in /home4/alandot5/public_html/cart.php on line 130
+[27-Nov-2016 23:23:42 America/Chicago] PHP Notice:  Undefined variable: price in /home4/alandot5/public_html/cart.php on line 115
+[27-Nov-2016 23:23:42 America/Chicago] PHP Notice:  Undefined variable: product_name in /home4/alandot5/public_html/cart.php on line 121
+[27-Nov-2016 23:23:42 America/Chicago] PHP Notice:  Undefined variable: price in /home4/alandot5/public_html/cart.php on line 122
+[27-Nov-2016 23:23:42 America/Chicago] PHP Notice:  Undefined variable: product_name in /home4/alandot5/public_html/cart.php on line 128
+[27-Nov-2016 23:23:42 America/Chicago] PHP Notice:  Undefined variable: product_name in /home4/alandot5/public_html/cart.php on line 128
+[27-Nov-2016 23:23:42 America/Chicago] PHP Notice:  Undefined variable: details in /home4/alandot5/public_html/cart.php on line 129
+[27-Nov-2016 23:23:42 America/Chicago] PHP Notice:  Undefined variable: price in /home4/alandot5/public_html/cart.php on line 130
+[27-Nov-2016 23:23:45 America/Chicago] PHP Notice:  Undefined variable: price in /home4/alandot5/public_html/cart.php on line 115
+[27-Nov-2016 23:23:45 America/Chicago] PHP Notice:  Undefined variable: product_name in /home4/alandot5/public_html/cart.php on line 121
+[27-Nov-2016 23:23:45 America/Chicago] PHP Notice:  Undefined variable: price in /home4/alandot5/public_html/cart.php on line 122
+[27-Nov-2016 23:23:45 America/Chicago] PHP Notice:  Undefined variable: product_name in /home4/alandot5/public_html/cart.php on line 128
+[27-Nov-2016 23:23:45 America/Chicago] PHP Notice:  Undefined variable: product_name in /home4/alandot5/public_html/cart.php on line 128
+[27-Nov-2016 23:23:45 America/Chicago] PHP Notice:  Undefined variable: details in /home4/alandot5/public_html/cart.php on line 129
+[27-Nov-2016 23:23:45 America/Chicago] PHP Notice:  Undefined variable: price in /home4/alandot5/public_html/cart.php on line 130
+[28-Nov-2016 00:07:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/alandot5/public_html/product.php on line 63
+[28-Nov-2016 00:08:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/alandot5/public_html/product.php on line 74
+[28-Nov-2016 00:08:36 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/alandot5/public_html/product.php on line 74
+[28-Nov-2016 00:12:24 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/alandot5/public_html/product.php on line 30
+[28-Nov-2016 00:12:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/alandot5/public_html/product.php on line 74
+[28-Nov-2016 00:13:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/alandot5/public_html/product.php on line 74
+[28-Nov-2016 00:22:10 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/alandot5/public_html/product.php on line 70
